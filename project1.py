@@ -49,7 +49,7 @@ NYSEGdataset.boxplot(column=["Billed Usage"])
 NYSEGdataset["Billed Usage"].mean()
 NYSEGdataset["Billed Usage"].max()
 NYSEGdataset["Billed Usage"].min()
-
+NYSEGdataset
 
 
 #months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
